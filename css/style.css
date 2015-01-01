@@ -527,7 +527,7 @@ margin-bottom: 10px;
 
 /*---Bottom section---*/
 #bottom{
-	padding:100px 10% 80px 10%;
+	padding:100px auto 80px auto;
 	text-align: center;
 	background: #000033;
 	position: relative;
@@ -664,8 +664,6 @@ blockquote{
 }
 
 }
-
-
 
 
 
