@@ -481,6 +481,7 @@ header{
  	background-position: 50% 50%;
  	text-align: center;
  	position: relative;
+ 	background-size: 100% auto
 }
  #footer-quote:after{
  	content: '';
