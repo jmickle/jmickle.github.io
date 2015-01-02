@@ -45,8 +45,8 @@ h4{
 /*Header 
  **************************************************/
 header{
-	border-top:5px solid #000033;
-	background: #000033;
+	border-top:5px solid #0B122B;
+	background: #0b122b;
 	padding:70px 0 20px 0;
 	text-align: center;
 	position: relative;
@@ -145,7 +145,7 @@ header{
 /*---Contact---*/
 #contact-wrapper{
 	position: absolute;
-	background: #000033;
+	background: #0B122B;
 	top: 100%;
 	left: 0;
 	width: 100%;
@@ -313,7 +313,7 @@ header{
 	/*padding: 40px;*/
 }
 .post-item .post-body .meta .date{
-	color:#d16b19;
+	color:#00CED1;
 	font-weight: 300;
 	text-transform: uppercase;
 }
@@ -378,7 +378,7 @@ header{
 	padding: 10px;
 }
 #blog-pagination ul li a:hover{
-	color:#d16b19;
+	color:#00CED1;
 }
 #blog-pagination ul li a i{
 	font-size: 18px;
@@ -465,7 +465,7 @@ header{
 	color: #636363;
 }
 #ptitle-list li .date{
-	color: #d16b19;
+	color: #00CED1;
 	font-size: 14px;
 }
 #ptitle-list li>*{
@@ -525,7 +525,7 @@ margin-bottom: 10px;
 #bottom{
 	padding:100px 80px 10%;
 	text-align: center;
-	background: #000033;
+	background: #0B122B;
 	position: relative;
 }
 #social-icons{
@@ -555,7 +555,7 @@ margin-bottom: 10px;
 }
 
 #social-icons li a:hover{
-	color:#d16b19;
+	color:#00CED1;
 }
 
 #copyright{
@@ -574,7 +574,7 @@ margin-bottom: 10px;
 	width:100px;
 	height:100px;
 	border-radius: 50%;
-	background: #000033;
+	background: #0B122B;
 	color:#00CED1;
 	font-size: 28px;
 	text-align: center;
@@ -611,7 +611,7 @@ margin-bottom: 10px;
 }
 
 #home-circle:hover{
-	color: #000033;
+	color: #0B122B;
 }
 #home-circle i{
 	position: relative;
